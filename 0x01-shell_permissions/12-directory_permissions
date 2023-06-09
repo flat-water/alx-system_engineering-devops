@@ -1,2 +1,2 @@
 #!/bin/bash
-(mkdir speechless) & (chmod 007 speechless)
+(mkdir my_dir) & (chmod 007 my_dir)
